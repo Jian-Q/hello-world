@@ -1,4 +1,4 @@
 # hello-world
 unfinished
 
-I am studying,so say sorry to you for modify it.
+I am studying on it,so say sorry to you.
